@@ -3,82 +3,82 @@ I am targeting to practice 3 Questions/day for the 20 days.
 So, I will get a total of 60 Questions at end of this.
 
 ### Day1
-1. Smallest Positive missing number 
-2. Max sum in the configuration
-3. 
+1. Kth smallest element [Array]
+2. Overlapping Intervals [Array]
+3. Boolean Matrix Problem [Array]
 ### Day2
-1. Delete without head pointer
-2. Remove loop in Linked List
-3. Intersection Point in Y Shapped Linked Lists
+1. Rotate and delete [Array]
+2. Smallest Positive missing number [Array]
+3. Length of the longest substring [String]
 ### Day3
-1. Reverse a Linked List in groups of given size
-2. Get minimum element from stack
-3. 
+1. Longest Palindrome in a String [String]
+2. Number following a pattern [String]
+3. Longest Common Prefix in an Array [String]
 ### Day4
-1. The Celebrity Problem 
-2. LRU Cache 
-3. Circular tour
+1.  Smallest distinct window [String]
+2.  Merge k Sorted Arrays [Sorting]
+3.  [Sorting]
 ### Day5
-1. Merge K sorted linked lists 
-2. 
-3. 
+1.  [Sorting]
+2.  [Sorting]
+3.  [Searching]
 ### Day6
-1. Multiply two strings
-2. Interleaved Strings 
-3. 
+1.  [Searching]
+2.  [Searching]
+3.  [Searching]
 ### Day7
-1. 
-2. Count Number of SubTrees having given Sum 
-3. Serialize and Deserialize a Binary Tree
+1. Sorting Elements of an Array by Frequency [Hashmaps]
+2. Smallest distinct window [Hashmaps]
+3. Zero Sum Subarrays [Hashmaps]
 ### Day8
-1. Min distance between two given nodes of a Binary Tree
-2. Maximum difference between node and its ancestor
-3. Top View of Binary Tree
+1. Find all four sum numbers [Hashmaps]
+2.  [LinkedList]
+3.  [LinkedList]
 ### Day9
-1. Connect Nodes at Same Level 
-2. Boundary Traversal of Binary tree
-3. Vertical Traversal of Binary Tree
+1.  [LinkedList]
+2.  [LinkedList]
+3.  [LinkedList]
 ### Day10
-1. Check for BST
-2. Bottom View of Binary Tree
-3. Largest BST 
+1.  [Stack&Queue]
+2.  [Stack&Queue]
+3.  [Stack&Queue]
 ### Day11
-1. Delete a node from BST 
-2. Count BST nodes that lie in a given range 
-3. k-th smallest element in BST
+1.  [Stack&Queue]
+2.  [Stack&Queue]
+3.  [Trees]
 ### Day12
-1. Detect cycle in a directed graph 
-2. Detect cycle in an undirected graph 
-3. Topological sort 
+1.  [Trees]
+2.  [Trees]
+3.  [Trees]
 ### Day13
-1. Find the number of islands 
-2. 
-3. 
+1.  [Trees]
+2.  [Greedy]
+3.  [Greedy]
 ### Day14
-1. 
-2. 
-3. 
+1.  [Greedy]
+2.  [Greedy]
+3.  [Greedy]
 ### Day15
-1. Rat in a Maze Problem - I
-2. Implementing Dijkstra | Set 1 (Adjacency Matrix)
-3. 
+1.  [Graphs]
+2.  [Graphs]
+3.  [Graphs]
 ### Day16
-1. Max length chain
-2. Minimum Spanning Tree
-3. 
+1.  [Graphs]
+2.  [Dynamic]
+3.  [Dynamic]
 ### Day17
-1. Count ways to N'th Stair(Order does not matter)
-2. 
-3. 
+1.  [Dynamic]
+2.  [Dynamic]
+3.  [Dynamic]
 ### Day18
-1. 
-2. 
-3. 
+1.  [Dynamic]
+2.  [Recursion&Backtracking]
+3.  [Recursion&Backtracking]
 ### Day19
-1. 
-2. 
-3. 
+1.  [Recursion&Backtracking]
+2.  [Recursion&Backtracking]
+3.  [Miscellaneous]
 ### Day20
-1. 
-2. 
-3. 
+1.  [Miscellaneous]
+2.  [Miscellaneous]
+3.  [Miscellaneous]
