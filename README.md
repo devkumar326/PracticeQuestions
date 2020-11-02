@@ -3,7 +3,7 @@
 I am targeting to practice 5 Questions/day for the 20 days from geeksforgeeks website.
 So, I will get a total of 100 Questions at end of this.
 
-<b>   Questions of Day 1</b>
+### Questions of Day 1
 <br>
 1> Given two arrays A and B of size N and M respectively. The task is to find union between these two arrays. Union of the two arrays can be defined as the set containing distinct    elements from both the arrays. If there are repetitions, then only one occurrence of element should be printed in union. [Point 1]
    
