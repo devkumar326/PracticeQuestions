@@ -28,3 +28,16 @@ So, I will get a total of 100 Questions at end of this.
 4> Given a square matrix[][] of size N x N. The task is to rotate it by 90 degrees in an anti-clockwise direction without using any extra space. [Point 1]
 
 5> Given a matrix mat[][] of size M*N. Traverse and print the matrix in spiral form. [Point 2]
+
+### Questions of Day 3
+<br>
+1> Given a row wise sorted matrix of size RxC where R and C are always odd, find the median of the matrix. [Points 4]
+
+2> Given a binary matrix. Find the maximum area of a rectangle formed only of 1s in the given matrix. [Points 4]
+
+3> Given a N x N matrix, where every row and column is sorted in non-decreasing order. Find the kth smallest element in the matrix. [Points 4]
+
+4> Given a string S. The task is to print all permutations of a given string. [Point 1]
+
+5> Given a string str, find length of the longest repeating subseequence such that the two subsequence don’t have same string character at same position, i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string. [Points 2]
+
