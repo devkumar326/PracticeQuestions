@@ -41,3 +41,8 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Given a string str, find length of the longest repeating subseequence such that the two subsequence don’t have same string character at same position, i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string. [Points 2]
 
+### Questions of Day 4
+<br>
+1> Given a string S, find the longest palindromic substring in S. Substring of string S: S[ i . . . . j ] where 0 ≤ i ≤ j < len(S). Palindrome string: A string which reads the same backwards. More formally, S is palindrome if reverse(S) = S. Incase of conflict, return the substring which occurs first ( with the least starting index ). [Points 4]
+
+
