@@ -55,6 +55,14 @@ So, I will get a total of 100 Questions at end of this.
 
 1> Word break problem [String 8] [Points 4]
 
+2> First and last occurrences of X [Searching & Sorting 1] [Point 1]
+
+3> Count Squares [Searching & Sorting 2] [Point 1]
+
+4> Majority Element [Searching & Sorting 3] [Point 1]
+
+5> Product Array puzzle [Searching & Sorting 4] [Points 2]
+
 
 
 
