@@ -63,6 +63,10 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Product Array puzzle [Searching & Sorting 4] [Points 2]
 
+### Questions of Day 6
+
+1> K-th element of two sorted arrays [Searching & Sorting 5] [Points 2]
+
 
 
 
