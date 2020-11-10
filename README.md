@@ -67,6 +67,12 @@ So, I will get a total of 100 Questions at end of this.
 
 1> K-th element of two sorted arrays [Searching & Sorting 5] [Points 2]
 
+2> Inversion of array [Searching & Sorting 6] [Points 2]
+
+3> Sort by Set Bit Count [Searching & Sorting 7] [Points 2]
+
+
+
 
 
 
