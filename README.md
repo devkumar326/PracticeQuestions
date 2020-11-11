@@ -4,7 +4,7 @@ I am targeting to practice 5 Questions/day for the 20 days from geeksforgeeks we
 So, I will get a total of 100 Questions at end of this.
 
 ### Questions of Day 1
-<br>
+
 1> Union of two arrays [Array 1] [Point 1]
    
 2> Sort an array of 0s, 1s and 2s [Array 2] [Points 2]
@@ -16,7 +16,7 @@ So, I will get a total of 100 Questions at end of this.
 5> Kth Smallest Element [Array 5] [Points 4]
 
 ### Questions of Day 2
-<br>
+
 1> Kadane's Algorithm [Array 6] [Points 4]
 
 2> Longest consecutive subsequence [Array 7] [Points 4]
@@ -28,7 +28,7 @@ So, I will get a total of 100 Questions at end of this.
 5> Spiral Traversal on Matrix [Matrix 2] [Points 2]
 
 ### Questions of Day 3
-<br>
+
 1> Median in row-wise Sorted Matrix [Matrix 3] [Points 4]
 
 2> Maximum size rectangle [Matrix 4] [Points 4]
@@ -40,7 +40,7 @@ So, I will get a total of 100 Questions at end of this.
 5> Longest Repeating Subsequence [String 2] [Points 2]
 
 ### Questions of Day 4
-<br>
+
 1> Longest Palindorme in a String [String 3] [Points 4]
 
 2> Find the string in grid  [String 4] [Points 2]
