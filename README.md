@@ -71,6 +71,11 @@ So, I will get a total of 100 Questions at end of this.
 
 3> Sort by Set Bit Count [Searching & Sorting 7] [Points 2]
 
+### Questions of Day 7
+
+1> Merge without Extra Space [Searching & Sorting 8] [Points 8]
+
+2> Find the Duplicates in array [Searching & Sorting 9] [Points 2]
 
 
 
