@@ -77,9 +77,14 @@ So, I will get a total of 100 Questions at end of this.
 
 2> Find the Duplicates in array [Searching & Sorting 9] [Points 2]
 
+3> Maximum Intervals Overlap [Searching & Sorting 10] [Points 4]
 
+4> Linked List Matrix [Linked List 1] [Points 2]
 
+5> Linked List in Zig Zag way [Linked List 2] [Points 2]
 
+6> Reverse a Linked List [Linked List 3] [Points 2]
 
+7> Delete Middle of Linked List [Linked List 4] [Points 2]
 
 
