@@ -96,3 +96,5 @@ So, I will get a total of 100 Questions at end of this.
 3> Remove loop in Linked List [Linked List 7] [Points 4]
 
 4> QuickSort on Doubly Linked List [Linked List 8] [Points 8]
+
+5> Implement stack using array [Stack 1] [Point 1]
