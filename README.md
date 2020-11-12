@@ -87,4 +87,12 @@ So, I will get a total of 100 Questions at end of this.
 
 7> Delete Middle of Linked List [Linked List 4] [Points 2]
 
+### Questions of Day 8
 
+1> Intersection Point in Y Shapped Linked Lists [Linked List 5] [Points 4]
+
+2> Reverse a Linked List in groups of given size [Linked List 6] [Points 4]
+
+3> Remove loop in Linked List [Linked List 7] [Points 4]
+
+4> QuickSort on Doubly Linked List [Linked List 8] [Points 8]
