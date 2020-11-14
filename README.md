@@ -109,4 +109,4 @@ So, I will get a total of 100 Questions at end of this.
 
 4> Longest valid Parentheses [Stack 5] [Points 8]
 
-5> Impkement Queue using array [Queue 1] [Point 1]
+5> Implement Queue using array [Queue 1] [Point 1]
