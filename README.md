@@ -98,3 +98,15 @@ So, I will get a total of 100 Questions at end of this.
 4> QuickSort on Doubly Linked List [Linked List 8] [Points 8]
 
 5> Implement stack using array [Stack 1] [Point 1]
+
+### Questions of Day 9
+
+1> Special Stack [Stack 2] [Points 2]
+
+2> Evaluation of Postfix Expression [Stack3] [Points 2]
+
+3> Parenthsis Checker [Stack 4] [Points 4]
+
+4> Longest valid Parentheses [Stack 5] [Points 8]
+
+5> Impkement Queue using array [Queue 1] [Point 1]
