@@ -110,3 +110,16 @@ So, I will get a total of 100 Questions at end of this.
 4> Longest valid Parentheses [Stack 5] [Points 8]
 
 5> Implement Queue using array [Queue 1] [Point 1]
+
+### Question of Day 10
+
+1> Reverse First K elements of Queue [Queue 2] [Points 2]
+
+2> Queue using two Stacks [Queue 3] [Points 2]
+
+3> Minimum Cost of ropes [Queue 4] [Points 4]
+
+4> Circular tour [Queue 5] [Points 4]
+
+5> Height of Binary Tree [Tree 1] [Point 1]
+
