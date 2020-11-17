@@ -123,3 +123,16 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Height of Binary Tree [Tree 1] [Point 1]
 
+### Question of Day 11
+
+1> Mirror Tree [Tree 2] [Points 2]
+
+2> Diameter of Binary Tree [Tree 3] [Points 2]
+
+3> Min distance between two given nodes of a Binary Tree [Tree 4] [Points 4]
+
+4> Tree from Postorder and Inorder [Tree 5] [Points 4]
+
+5> Maximum Path Sum between 2 Leaf Nodes [Tree 6] [Points 8]
+
+
