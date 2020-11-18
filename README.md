@@ -111,7 +111,7 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Implement Queue using array [Queue 1] [Point 1]
 
-### Question of Day 10
+### Questions of Day 10
 
 1> Reverse First K elements of Queue [Queue 2] [Points 2]
 
@@ -123,7 +123,7 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Height of Binary Tree [Tree 1] [Point 1]
 
-### Question of Day 11
+### Questions of Day 11
 
 1> Mirror Tree [Tree 2] [Points 2]
 
@@ -134,5 +134,18 @@ So, I will get a total of 100 Questions at end of this.
 4> Tree from Postorder and Inorder [Tree 5] [Points 4]
 
 5> Maximum Path Sum between 2 Leaf Nodes [Tree 6] [Points 8]
+
+### Questions of Day 12
+
+1> Minimum element in BST [Binary Search Tree 1] [Point 1]
+
+2> Search a node in BST [Binary Search Tree 2] [Point 1]
+
+3> Lowest Common Ancestor in a BST [Binary Search Tree 3] [Points 2]
+
+4> Kth largest element in BST [Binary Search Tree 4] [Points 2]
+
+5> Check for BST [Binary Search Tree 5] [Points 4]
+
 
 
