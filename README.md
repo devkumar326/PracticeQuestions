@@ -147,5 +147,18 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Check for BST [Binary Search Tree 5] [Points 4]
 
+### Questions of Day 13
+
+1> Delete a node from BST [Binary Search Tree 6] [Points 4]
+
+2> Largest BST [Binary Search Tree 7] [Points 4]
+
+3> Fixing Two nodes of a BST [Binary Search Tree 8] [Points 8]
+ 
+4> k largest elements [Heap 1] [Point 1]
+
+5> Binary Heap Operations [Heap 2] [Points 2]
+
+
 
 
