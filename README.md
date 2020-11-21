@@ -171,5 +171,16 @@ So, I will get a total of 100 Questions at end of this.
 
 5> BFS of graph [Graph 3] [Points 2]
 
+### Questions of Day 15
+
+1> DFS of graph [Graph 4] [Points 2]
+
+2> Detect cycle in a directed graph [Graph 5] [Points 4]
+
+3> Find the number of islands [Graph 6] [Points 4]
+
+4> Alien Dictionary [Graph 7] [Points 8]
+
+5> Minimum Cost Path [Graph 8] [Points 8]
 
 
