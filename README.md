@@ -159,6 +159,17 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Binary Heap Operations [Heap 2] [Points 2]
 
+### Questions of Day 14
+
+1> Merge K sorted linked lists [Heap 3] [Points 4]
+
+2> Find median in a stream [Heap 4] [Points 8]
+
+3> Sum of dependencies in a graph [Graph 1] [Point 1]
+
+4> Shortest path from 1 to n [Graph 2] [Point 1]
+
+5> BFS of graph [Graph 3] [Points 2]
 
 
 
