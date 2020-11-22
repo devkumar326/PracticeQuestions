@@ -181,6 +181,6 @@ So, I will get a total of 100 Questions at end of this.
 
 4> Alien Dictionary [Graph 7] [Points 8]
 
-5> Minimum Cost Path [Graph 8] [Points 8]
+5> Find the maximum flow [Graph 8] [Points 8]
 
 
