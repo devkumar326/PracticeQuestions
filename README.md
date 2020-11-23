@@ -183,4 +183,17 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Find the maximum flow [Graph 8] [Points 8]
 
+### Questions of Day 16
+
+1> Minimize the sum of product [Greedy 1] [Point 1]
+
+2> Activity Selection [Greedy 2] [Points 2]
+
+3> Fractional Knapsack [Greedy 3] [Points 2]
+
+4> Max length chain [Greedy 4] [Points 4]
+
+5> Implementing Dijkstra [Greedy 5] [Points 4]
+
+
 
