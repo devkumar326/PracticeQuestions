@@ -195,5 +195,16 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Implementing Dijkstra [Greedy 5] [Points 4]
 
+### Question of Day 17
+
+1> Number of Paths [Recursion & Backtracking 1] [Point 1]
+
+2> Permutation with Spaces [Recursion & Backtracking 2] [Points 2]
+
+3> Flood Fill Algorithm [Recursion & Backtyracking 3] [Points 2]
+
+4> Number of paths in a matrix with k coins [Recursion & Backtracking 4] [Points 4]
+
+5> Combination Sum [Recursion & Backtracking 5] [Points 4]
 
 
