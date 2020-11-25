@@ -207,4 +207,14 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Combination Sum [Recursion & Backtracking 5] [Points 4]
 
+### Questions of Day 18
 
+1> N-Queen Problem [Recursion & Backtracking 6] [Points 8]
+
+2> Count Numbers Contaning 4 [Dynamic Programming 1] [Point 1]
+
+3> Print First n Fibbonacci numbers [Dynamic Programming 2] [Point 1]
+
+4> Rod Cutting problem [Dynamic Programmming 3] [Points 2]
+
+5> Count all possible paths from top left to bottom right [Dynamic Programming 4] [Points 2]
