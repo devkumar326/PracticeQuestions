@@ -218,3 +218,16 @@ So, I will get a total of 100 Questions at end of this.
 4> Rod Cutting problem [Dynamic Programmming 3] [Points 2]
 
 5> Count all possible paths from top left to bottom right [Dynamic Programming 4] [Points 2]
+
+### Questions of Day 19
+
+1> Total Decoding Messages [Dynamic Programming 5] [Points 4]
+
+2> Longest Common Substring [Dynamic Programming 6] [Points 4]
+
+3> Interleaved Strings [Dynamic Programming 7] [Points 4]
+
+4> Wildcard Pattern Matching [Dynamic Programming 8] [Points 4]
+
+5> Boolean Parenthesization [Dynamic Programming 9] [Points 8]
+
