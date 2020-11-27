@@ -231,3 +231,14 @@ So, I will get a total of 100 Questions at end of this.
 
 5> Boolean Parenthesization [Dynamic Programming 9] [Points 8]
 
+### Questions of Day 20
+
+1> Distinct Palindromic Substrings [Dynamic Programming 10] [Points 8]
+
+2> Count total set bits [Bit Magic 1] [Points 4]
+
+3> Maximum subset XOR [Bit Magic 2] [Points 4]
+
+4> Factorials of large numbers [Mathematics 1] [Points 4]
+
+5> Container With Most Water [Combintorics 1] [Points 4]
